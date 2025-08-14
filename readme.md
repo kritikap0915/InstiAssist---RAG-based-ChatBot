@@ -1,7 +1,3 @@
-Here's a detailed and well-structured README file for your InstiAssist RAG-based chatbot project, ready for GitHub.
-
------
-
 # 🎓 InstiAssist: Your Institute's RAG-Based AI Assistant
 
 InstiAssist is an intelligent chatbot designed to provide real-time, accurate information about an institution by leveraging its internal documents and resources. It uses a **Retrieval-Augmented Generation (RAG)** architecture to go beyond the limitations of pre-trained models, ensuring that all answers are grounded in the provided institute-specific data.
